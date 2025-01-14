@@ -1,0 +1,20 @@
+[
+  {
+    "room": "203",
+    "checkin": "2025-01-01",
+    "checkout": "2025-02-04",
+    "guestName": "mk",
+    "guestPhone": "574892",
+    "guestAddress": "UHAF",
+    "guestPrice": "3465"
+  },
+  {
+    "room": "204",
+    "checkin": "2025-01-01",
+    "checkout": "2025-02-04",
+    "guestName": "mk",
+    "guestPhone": "574892",
+    "guestAddress": "UHAF",
+    "guestPrice": "3465"
+  }
+]
